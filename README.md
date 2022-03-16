@@ -1,5 +1,13 @@
 # DPchallenge1
-Bootcamp challenge (Python)
+Challenge para ingresar a un bootcamp realizado con Python.
+
+# NOTAS: 
+EN EL CHALLENGE DE BASES DE DATOS. Hay que instalar la libreria mysql-connector-python. 
+Se usan la base de datos, tabla, y el usuario y con contraseña creados con el script SQL dentro del archivo SQL_DB.txt
+No se logro finalizar la presentación de los datos. Se muestran como diccionario de Python. No se terminó de corregir el script para que se respeten las buenas practicas.
+
+
+# CONSIGNAS
 
 # Challenge Algoritmos
 Lenguaje a utilizar: Javascript, Java, C, C#, Node, Phyton.
