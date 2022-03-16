@@ -12,3 +12,9 @@ CREATE TABLE empleados (
     antiguedad INTEGER(2),
     puesto VARCHAR(20),
     municipalidad VARCHAR(20));
+
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'newuser';
+
+GRANT ALL PRIVILEGES ON municipales.* TO 'newuser'@'localhost';
+
+
