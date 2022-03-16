@@ -1,4 +1,5 @@
-#from curses.ascii import isdigit
+# Se importan librerias/funciones
+
 from random import choice
 import string
 
